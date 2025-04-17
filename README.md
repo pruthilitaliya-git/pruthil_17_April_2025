@@ -1,6 +1,8 @@
 Note: I have created this solution using the Java Spring Boot framework.
 
-Recording link:
+Recording link: https://www.loom.com/share/7dbf4fabc93a47a5897a39bc3305fbe1
+
+CSV File: https://drive.google.com/file/d/1QmeMAcHbFexIXRHIgAYkKIx5-37MSzlB/view?usp=drive_link
 
 Ideas for improving the solution:
 
